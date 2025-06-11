@@ -1,0 +1,13 @@
+menu "Audio board select"
+
+choice AUDIO_BOARD
+    prompt "Audio board"
+    default ESP32_ADF_REVC_BOARD
+    help
+        Select an audio board to use with the ESP-ADF
+
+config ESP32_ADF_REVC_BOARD
+    bool "OLIMEX ESP32-ADF Rev C"
+endchoice
+
+endmenu
