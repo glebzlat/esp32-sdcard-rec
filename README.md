@@ -2,9 +2,9 @@
 
 ## Versions:
 
-    - `esp-idf == v5.4.1`
-    - 'esp-adf == v2.7'
+- `esp-idf == v5.4.1`
+- `esp-adf == v2.7`
 
 ## Board:
     
-    - Olimex ESP32-ADF Rev.C
+- Olimex ESP32-ADF Rev.C
